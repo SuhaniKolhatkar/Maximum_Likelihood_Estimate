@@ -2,6 +2,8 @@
 # Maximum Likelihood Estimator (MLE)
 
 This is a simple Python project to estimate parameters of different probability distributions using Maximum Likelihood Estimation (MLE).
+![plot](images/04.png)
+![plot](images/05.png)
 
 ## What it does
 
